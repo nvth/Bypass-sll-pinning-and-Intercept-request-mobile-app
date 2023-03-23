@@ -84,6 +84,7 @@ After reboot, Burp CA installed. We can check on `Setting` >> `Security & locati
 >   su
 
 If `su`, command promt will be like that
+
 ![image](https://user-images.githubusercontent.com/63294758/227363205-c57f7fe4-05d0-4e6a-ab90-c1bcf1cbeb91.png)
 
 2.  Check architecture (based on 86 bit or 64 bit)
@@ -93,6 +94,7 @@ If `su`, command promt will be like that
 >   getprop ro.product.cpu.abi
 
 `x86` and we just download version of frida-server
+
 ![image](https://user-images.githubusercontent.com/63294758/227363291-c9d06bb1-3fd0-441a-abf7-4fcb9afbea9e.png)
 
 3.  run frida-server 
