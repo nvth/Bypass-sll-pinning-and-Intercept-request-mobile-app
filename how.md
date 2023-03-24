@@ -118,14 +118,14 @@ and minimized this windows.
 and finding app you need, example `twitter` have package like `com.android.twitter`
 4.  run objection to sslpinning bypass
 -   After install objection `objection -g <name of package> explore`
->   objection -g com.android.twitter explore
+>   objection -g com.twitter.android explore
 
 After using this command, app will be run on genymotion or your phone, Dont login or do anything just leave it!
 continous using command
 
 >   android sslpinning disable
 
-![image](https://user-images.githubusercontent.com/63294758/227364119-68d75f0c-d14c-4103-af31-40599fd91286.png)
+
 
 minimized this windows
 
