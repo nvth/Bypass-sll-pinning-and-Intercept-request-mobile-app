@@ -115,6 +115,9 @@ and minimized this windows.
 
 >   top
 
+![image](https://user-images.githubusercontent.com/63294758/227427844-6cad9db1-9385-4c1c-adbf-d8a0544f0309.png)
+
+
 and finding app you need, example `twitter` have package like `com.android.twitter`
 4.  run objection to sslpinning bypass
 -   After install objection `objection -g <name of package> explore`
@@ -125,6 +128,7 @@ continous using command
 
 >   android sslpinning disable
 
+![image](https://user-images.githubusercontent.com/63294758/227427808-e3a90c81-5f88-4d3b-ac3b-88bab5865c26.png)
 
 
 minimized this windows
