@@ -28,7 +28,8 @@ If `su`, command promt will be like that
 
 >   ./data/local/tmp/frida-server
 
-and minimized this windows.
+and minimized this windows.  
+
 4.  Check `name of package` we need to bypass
 -   Open app we need find `package name`
 -   name of package like : `com.android.emergency` 
@@ -40,7 +41,7 @@ and minimized this windows.
 
 
 and finding app you need, example `twitter` have package like `com.android.twitter`
-4.  run objection to sslpinning bypass
+5.  run objection to sslpinning bypass
 -   Install objection on your computer : pip install objection  
 -   After install objection `objection -g <name of package> explore`
 >   objection -g com.twitter.android explore
