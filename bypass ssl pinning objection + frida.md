@@ -19,6 +19,7 @@ If `su`, command promt will be like that
 ![image](https://user-images.githubusercontent.com/63294758/227363291-c9d06bb1-3fd0-441a-abf7-4fcb9afbea9e.png)
 
 3.  run frida-server 
+-   Download and install frida-server at : https://github.com/frida/frida/releases
 -   After unzip `frida` clone from github. just rename binaries file to `frida-server` coppy `frida-server` to abd folder and on adb commandline screen: 
 >   adb push frida-server /data/local/tmp 
 
