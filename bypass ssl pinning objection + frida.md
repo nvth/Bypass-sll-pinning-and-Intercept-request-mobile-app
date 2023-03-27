@@ -41,6 +41,7 @@ and minimized this windows.
 
 and finding app you need, example `twitter` have package like `com.android.twitter`
 4.  run objection to sslpinning bypass
+-   Install objection on your computer : pip install objection  
 -   After install objection `objection -g <name of package> explore`
 >   objection -g com.twitter.android explore
 
