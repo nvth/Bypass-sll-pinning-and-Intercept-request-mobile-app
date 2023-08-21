@@ -18,6 +18,8 @@ mount -o rw,remount /
 or
 mount -o rw,remount /system
 ```
+sometime it work  
+```adb shell avbctl disable-verification```
 issue : AVD no internet after create
 
 set internet IPv4 on your computer to DNS google 8888-8844
